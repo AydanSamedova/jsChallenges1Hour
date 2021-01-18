@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+.dark {
+    background: black;
+    color: white;
+}
+
+.light {
+    background: rgb(209, 206, 206);
+    color: blueviolet;
+}

@@ -1,0 +1,18 @@
+h1 {
+    background: rgb(230, 221, 221);
+    text-align: center;
+}
+
+.heart {
+    color: rgb(21, 223, 21);
+    position: fixed;
+    top: -1vh;
+    transform: translateY(0);
+    animation: fall 3s linear;
+}
+
+@keyframes fall {
+    to {
+        transform: translateY(105vh);
+    }
+}

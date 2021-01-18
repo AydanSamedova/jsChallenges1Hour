@@ -1,0 +1,23 @@
+.none {
+    display: none;
+}
+
+#btn {
+    float: right;
+}
+
+.container {
+    background: rgb(255, 179, 179);
+}
+
+button {
+    background-color: transparent;
+    border: 2px solid rgb(117, 59, 151);
+    outline: none;
+}
+
+.pop {
+    width: 50%;
+    margin: auto;
+    padding: 10px 0;
+}
